@@ -287,7 +287,7 @@ h4 {
 
 .image-container {
     bottom: 2rem;
-    height: 10rem;
+    height: 11rem;
     position: relative;
 }
 
@@ -296,7 +296,7 @@ h4 {
 }
 
 .image-container .p-one {
-    width: 200px;
+    width: 500px;
 }
 
 .p-three {
@@ -309,7 +309,7 @@ h4 {
 
 .projects-item {
     overflow: hidden;
-    width: 20rem;
+    width: 24rem;
     margin: 1rem;
     background: #2c2c6c;
     border-radius: 1.5rem;
@@ -327,6 +327,10 @@ h4 {
     font-size: .9rem;
 }
 
+.projects-item a {
+    position: relative;
+
+}
 
 
 /* Contact me Section */
